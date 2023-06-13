@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.69"
-wasmtime = "5.0.0"
+wasmtime = "6.0.2"
